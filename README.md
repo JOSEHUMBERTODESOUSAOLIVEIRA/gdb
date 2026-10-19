@@ -1,0 +1,2 @@
+# gdb
+aplicativo GDB
